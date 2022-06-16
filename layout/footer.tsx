@@ -53,11 +53,11 @@ const linkArray = {
   ],
   legal: [
     {
-      href: "/",
+      href: "https://nmldigital.com/politicas-de-privacidade-app/",
       linkTitle: "Política de Privacidade",
     },
     {
-      href: "/",
+      href: "https://nmldigital.com/termos-de-uso/",
       linkTitle: "Termos e Condições",
     },
   ],
