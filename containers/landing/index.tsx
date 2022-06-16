@@ -17,7 +17,8 @@ const LandingPage = () => {
   return (
     <React.Fragment>
       <Title
-        <img src="./images/logo.jpg" alt="logo" width="200">
+        id="converter"
+        label="# Feliz"
         title={"Conversor de moeda"}
         description={"Verifique as taxas de câmbio em tempo real"}
       />
